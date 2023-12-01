@@ -1,0 +1,52 @@
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe.config
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.pdb
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.xml
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.exe
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.xml
+C:\Users\Usuario\source\repos\ProyectoSemestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.pdb
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe.config
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\bin\Debug\ProyectoSemestral.pdb
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\bin\Debug\ProyectoSemestral.xml
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.AssemblyReference.cache
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.SuggestedBindingRedirects.cache
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.Form1.resources
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.Resources.resources
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.GenerateResource.cache
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.CoreCompileInputs.cache
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.exe
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.xml
+E:\Documentos\Nueva carpeta (2)\ProyectoSemestral\obj\Debug\ProyectoSemestral.pdb
+D:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe.config
+D:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe
+D:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.pdb
+D:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.xml
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.AssemblyReference.cache
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.SuggestedBindingRedirects.cache
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.Form1.resources
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.Resources.resources
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.GenerateResource.cache
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.CoreCompileInputs.cache
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.exe
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.xml
+D:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.pdb
+H:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe.config
+H:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.exe
+H:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.pdb
+H:\Hpa Semestral\ProyectoSemestral\bin\Debug\ProyectoSemestral.xml
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.AssemblyReference.cache
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.SuggestedBindingRedirects.cache
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.Form1.resources
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.Resources.resources
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.GenerateResource.cache
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.vbproj.CoreCompileInputs.cache
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.exe
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.xml
+H:\Hpa Semestral\ProyectoSemestral\obj\Debug\ProyectoSemestral.pdb
